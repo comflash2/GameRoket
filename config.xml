@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.fahim.roket"
+    versionCode = "10"
+    version     = "1.0.0" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Roket Fahim/name>
+
+  <description>
+      Elak kilat dan ambil kunci sebanyaknya.
+  </description>
+
+  <author href="https://www.hilmingah.com" email="comflash2@gmail.com">
+      Putera Fahim Ilmi
+  </author>
+
+</widget>
